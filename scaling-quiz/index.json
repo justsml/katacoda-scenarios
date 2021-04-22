@@ -4,11 +4,7 @@
   "details": {
     "steps": [
       {
-        "text": "step1.md",
-        "code": "foreground.sh"
-      },
-      {
-        "text": "step2.md"
+        "text": "step1.md"
       }
     ],
     "intro": {
@@ -19,7 +15,7 @@
     }
   },
   "environment": {
-    "uilayout": "vscode-terminal-split"
+    "uilayout": "terminal"
   },
   "backend": {
     "imageid": "ubuntu"
