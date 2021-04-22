@@ -7,7 +7,8 @@
   "details": {
     "intro": {
       "text": "intro.md",
-      "foreground": "foreground.sh"
+      "foreground": "foreground.sh",
+      "background": "background.sh"
     },
     "finish": {
       "text": "finish.md"
@@ -23,7 +24,7 @@
     }
   },
   "environment": {
-    "uilayout": "terminal-split"
+    "uilayout": "terminal"
   },
   "backend": {
     "imageid": "nodejs:12"
