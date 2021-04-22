@@ -3,9 +3,8 @@
   "description": "Dan is testing Katacoda ✨",
   "details": {
     "steps": [
-      {
-        "text": "step1.md"
-      }
+      { "text": "step1.md" },
+      { "text": "assessment.md" }
     ],
     "intro": {
       "text": "intro.md"

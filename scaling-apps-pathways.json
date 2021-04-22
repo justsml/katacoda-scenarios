@@ -4,14 +4,16 @@
   "courses": 
   [
     {
+      "pathway_id": "justsml",
       "course_id": "scaling-quiz",
       "title": "Scaling strategies intro quiz",
       "description": "Scaling strategies"
     },
     {
+      "pathway_id": "justsml",
       "course_id": "setup-tracing",
       "title": "Setup tracing",
-      "pathway_id": "justsml"
+      "description": "Setup tracing library"
     }
   ]
 }
