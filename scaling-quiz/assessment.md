@@ -2,7 +2,7 @@
 
 > Select ALL correct options. (3 each)
 
->>Q1: Choose all benefits of vertical scaling <<
+>>Q1: Choose the benefit(s) of vertical scaling <<
 [*] Improved performance
 [*] Code simplicity
 [ ] Uptime

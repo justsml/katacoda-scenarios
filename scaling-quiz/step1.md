@@ -1,17 +1,20 @@
 # Objective
 
-1. Describe high-level strategies for scaling software.
-
-# Overview
-
-**Scaling** is a solution to a common problem in software systems:
-
-> A busy server sees a surge in traffic...
-Users experience slow response times, error messages, and inevitably tweet their frustration.
+1. Identify key benefits between `Horizontal` and `Vertical` scaling strategies.
 
 ## Objective #1
 
-There are 2 high-level strategies for scaling an application. `Horizontal` and `Vertical`.
+**Scaling** is a solution to a common problem in software systems:
+
+Let's walk through a scenario:
+
+1. Most days our server sees less than a few 1,000 users.
+1. **Out of nowhere:** An influencer on TikTok just told 5 million people to buy your stuff! ZOMG!
+1. In under 60 seconds, a surge of 150K users head your way!
+1. Server didn't stand a chance...
+1. The Big Boss calls you to not-so-politely demand a solution!
+
+In order to provide a solution, it is important you understand the trade-offs between 2 high-level clustering strategies: `Horizontal` and `Vertical`.
 
 ### Vertical Scaling
 
@@ -40,3 +43,4 @@ The money typically saved on servers with a `horizontal` strategy is usually spe
 Beyond app performance, a key added benefit of `horizontal scaling` can be **increased uptime.** When a server goes down, a new clone can spin up in its place.
 
 
+#### Continue to Quiz
