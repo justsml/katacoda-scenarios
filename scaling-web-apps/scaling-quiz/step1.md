@@ -1,4 +1,6 @@
-# Objective
+# Objective(s)
+
+By the end of this module you'll be able to:
 
 1. Identify key benefits between `Horizontal` and `Vertical` scaling strategies.
 
@@ -10,9 +12,9 @@ Let's walk through a scenario:
 
 1. Most days our server sees less than a few 1,000 users.
 1. **Out of nowhere:** An influencer on TikTok just told 5 million people to buy your stuff! ZOMG!
-1. In under 60 seconds, a surge of 150K users head your way!
-1. Our server didn't stand a chance...
-1. **Ring, Ring** The Big Boss calls to not-so-politely demand a solution!
+1. **In 60 seconds** a surge of *150K users* overwhelms capacity!
+1. **Gasp!** Our server didn't stand a chance...
+1. **Ring, Ring** The Big Boss calls to demand a solution!
 
 In order to discuss solutions, it is important to understand the trade-offs between 2 high-level clustering strategies: `Horizontal` and `Vertical`.
 
@@ -34,7 +36,7 @@ As you might have guessed - there comes a point when adding RAM or CPU power isn
 
 `Horizontal scaling` (or "scaling out") combines the power of **multiple lower-cost servers.** For example, let's say we have a Wordpress server that is overloaded. You could clone the web server to handle theoretically 2x the traffic. 
 
-In the real world 2 servers don't equal 200% faster; due to unavoidable overhead it might take 3-4 servers to acheive ***real*** gains around 200%. This makes it much more difficult to estimate costs compared to `vertical scaling`.
+In the real world 2 servers don't equal 200% faster; due to unavoidable overhead it might take 3-4 servers to achieve ***real*** gains around 200%. This makes it much more difficult to estimate costs compared to `vertical scaling`.
 
 **Just as important** as quickly adding capacity, businesses **need to be able to reduce capacity** after spikes or during slower evening hours.
 
