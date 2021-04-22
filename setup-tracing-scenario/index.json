@@ -1,0 +1,19 @@
+{
+  "title": "Setup tracing (scenario)",
+  "description": "Add DataDog Tracing library to a project.",
+  "difficulty": "Beginner",
+  "time": "6 minutes",
+  "details": {
+    "steps": [
+      { "text": "step1.md", "verify": "step1-verify.sh" }
+    ],
+    "intro": { "text": "intro.md" },
+    "finish": { "text": "finish.md" }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "nodejs:12"
+  }
+}

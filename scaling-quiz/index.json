@@ -6,12 +6,8 @@
       { "text": "step1.md" },
       { "text": "assessment.md" }
     ],
-    "intro": {
-      "text": "intro.md"
-    },
-    "finish": {
-      "text": "finish.md"
-    }
+    "intro": { "text": "intro.md" },
+    "finish": { "text": "finish.md" }
   },
   "environment": {
     "uilayout": "terminal"
