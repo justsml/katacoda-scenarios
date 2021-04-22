@@ -4,13 +4,13 @@
   "courses": [
     {
       "course_id": "scaling-quiz",
-      "title": "Scaling Concepts",
-      "description": "Key concepts: horizontal vs. vertical scaling."
+      "title": "[Module 1.1] Intro to Scaling Concepts",
+      "description": "Master key concepts: horizontal vs. vertical scaling."
     },
     {
       "course_id": "setup-tracing",
-      "title": "Setup tracing",
-      "description": "Setup tracing library"
+      "title": "[Module 3.2] Exercise: Setup Tracing",
+      "description": "Add tracing to a Node.js & Express project."
     }
   ]
 }

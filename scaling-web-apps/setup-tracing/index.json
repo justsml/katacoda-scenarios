@@ -1,6 +1,6 @@
 {
   "title": "Setup tracing",
-  "description": "Add DataDog Tracing library to a project.",
+  "description": "Add DataDog Tracing library to a node.js project.",
   "difficulty": "Beginner",
   "time": "6 minutes",
   "details": {
