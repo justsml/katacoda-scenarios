@@ -4,3 +4,5 @@ if [[ "$?" -ne 0 ]]; then
   echo 'Error: Failed to locate library'
   exit 1
 fi
+
+echo "done"
