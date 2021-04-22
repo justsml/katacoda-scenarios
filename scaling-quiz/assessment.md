@@ -1,6 +1,6 @@
 ## Assessment
 
-> Select ALL correct options. (3 each)
+#### Select ALL correct options. (3 each)
 
 
 >>Q1: Choose the benefit(s) of vertical scaling<<
