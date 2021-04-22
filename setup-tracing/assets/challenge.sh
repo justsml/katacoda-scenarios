@@ -11,10 +11,10 @@ kc_start_tasks()
   kc_task \
       "Task 1: Install dd-trace" \
       "Well Done!..." \
-      "[ -f $HOME/node_modules/dd-trace/package.json ] && echo 'done' || exit 1"
+      "test -f /root/node_modules/dd-trace/package.json"
 
 
-  echo "You successfully fixed the application"
+  echo "You successfully installed the library"
 
 }
 
