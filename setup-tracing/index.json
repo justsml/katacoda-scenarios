@@ -7,8 +7,7 @@
   "details": {
     "intro": {
       "text": "intro.md",
-      "foreground": "foreground.sh",
-      "background": "background.sh"
+      "foreground": "foreground.sh"
     },
     "finish": {
       "text": "finish.md"
