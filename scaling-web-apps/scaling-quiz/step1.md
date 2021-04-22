@@ -11,10 +11,10 @@ Let's walk through a scenario:
 1. Most days our server sees less than a few 1,000 users.
 1. **Out of nowhere:** An influencer on TikTok just told 5 million people to buy your stuff! ZOMG!
 1. In under 60 seconds, a surge of 150K users head your way!
-1. Server didn't stand a chance...
-1. The Big Boss calls you to not-so-politely demand a solution!
+1. Our server didn't stand a chance...
+1. **Ring, Ring** The Big Boss calls to not-so-politely demand a solution!
 
-In order to provide a solution, it is important you understand the trade-offs between 2 high-level clustering strategies: `Horizontal` and `Vertical`.
+In order to discuss solutions, it is important to understand the trade-offs between 2 high-level clustering strategies: `Horizontal` and `Vertical`.
 
 ### Vertical Scaling
 
