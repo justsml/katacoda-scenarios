@@ -10,7 +10,8 @@ By the end of this module you'll be able to:
 
 Let's walk through a scenario:
 
-1. Most days our server sees less than a few 1,000 users.
+Most days our server sees less than a few 1,000 users...
+
 1. **Out of nowhere:** An influencer on TikTok just told 5 million people to buy your stuff! ZOMG!
 1. **In 60 seconds** a surge of *150K users* overwhelms capacity!
 1. **Gasp!** Our server didn't stand a chance...
