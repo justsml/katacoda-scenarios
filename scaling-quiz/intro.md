@@ -11,7 +11,7 @@ We will master the jargon while answering key questions:
 - What does `performance` mean for my app?
 
 
-> This unit will help you establish the skills required to handle scaling web applications.
+> This unit will help you establish the skills required to scale modern web applications.
 
 ## Learning goals
 
