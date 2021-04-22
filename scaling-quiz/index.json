@@ -1,0 +1,27 @@
+{
+  "title": "Add Tracing to Project",
+  "description": "Dan is testing Katacoda ✨",
+  "details": {
+    "steps": [
+      {
+        "text": "step1.md",
+        "code": "foreground.sh"
+      },
+      {
+        "text": "step2.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "vscode-terminal-split"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
