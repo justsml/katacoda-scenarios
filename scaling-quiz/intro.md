@@ -1,6 +1,8 @@
 # Unit: Building Scalable Apps
 
-When building high performance apps, you'll inevitably discover terms like `cluster`, `horizontal scaling`, `stateless`, `serverless`. Fear not!
+When building high performance apps, you'll inevitably discover terms like `cluster`, `horizontal scaling`, `stateless`, `serverless`.
+
+Fear not!
 
 We will master the jargon while answering key questions:
 

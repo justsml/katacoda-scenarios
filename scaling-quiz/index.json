@@ -1,6 +1,6 @@
 {
-  "title": "Add Tracing to Project",
-  "description": "Dan is testing Katacoda ✨",
+  "title": "Scaling Concepts",
+  "description": "Key concepts: horizontal vs. vertical scaling.",
   "details": {
     "steps": [
       { "text": "step1.md" },
