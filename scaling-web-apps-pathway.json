@@ -1,0 +1,16 @@
+{
+  "title": "Scaling Web Apps",
+  "description": "Learn to scale modern web applications.",
+  "courses": [
+    {
+      "course_id": "scaling-quiz",
+      "title": "Scaling Concepts",
+      "description": "Key concepts: horizontal vs. vertical scaling."
+    },
+    {
+      "course_id": "setup-tracing",
+      "title": "Setup tracing",
+      "description": "Setup tracing library"
+    }
+  ]
+}
