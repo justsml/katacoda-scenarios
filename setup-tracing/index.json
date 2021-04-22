@@ -3,7 +3,7 @@
   "title": "Setup tracing library",
   "description": "Add dd-trace to a project.",
   "difficulty": "Beginner",
-  "time": "60 minutes",
+  "time": "6 minutes",
   "details": {
     "intro": {
       "text": "intro.md",
@@ -23,8 +23,7 @@
     }
   },
   "environment": {
-    "hidesidebar": true,
-    "uilayout": "vscode-terminal-split"
+    "uilayout": "terminal-split"
   },
   "backend": {
     "imageid": "nodejs:12"
